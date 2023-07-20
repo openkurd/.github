@@ -6,7 +6,7 @@ Welcome! We are excited to introduce you to a unique initiative that transcends 
 
 At its core, open-source is all about community participation and collaboration. We believe that language should not be an impediment to this. That’s why we've made it our mission to make open-source projects accessible to as many people as possible by providing high-quality translations. 
 
-## **Supported dialects##
+## **Supported dialects**
 
 >      Kurmancî
 
